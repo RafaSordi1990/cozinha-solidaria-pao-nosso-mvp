@@ -38,3 +38,5 @@ Este projeto está alinhado ao **ODS 2 (Fome Zero e Agricultura Sustentável —
 1. **Tela 1 — Entrada Principal (Login):** Autenticação segura dos voluntários para início do turno de atendimento.
 2. **Tela 2 — Execução Central (Busca e Check-in):** Pesquisa rápida de famílias ativas e registro de entrega da cesta básica.
 3. **Tela 3 — Alertas e Resultados:** Confirmação visual do check-in, avisos de bloqueio por duplicidade e alertas FIFO de proximidade de vencimento no estoque.
+
+.
